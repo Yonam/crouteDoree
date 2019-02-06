@@ -1,0 +1,761 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pages/caisse/Livraison/livraisonPdf.php",
+			"settings":
+			{
+				"buffer_size": 4991,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/administration/Produit/ajout_produit.php",
+			"settings":
+			{
+				"buffer_size": 3189,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/administration/Produit/script_ajout.php",
+			"settings":
+			{
+				"buffer_size": 1388,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/caisse/Vente/script_commande.php",
+			"settings":
+			{
+				"buffer_size": 5200,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/caisse/Vente/liste_vente.php",
+			"settings":
+			{
+				"buffer_size": 9353,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/caisse/Gestion/liste_total_commandes.php",
+			"settings":
+			{
+				"buffer_size": 11809,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/administration/Comptabilite/evaluation.php",
+			"settings":
+			{
+				"buffer_size": 3386,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/caisse/Gestion/encaissement.php",
+			"settings":
+			{
+				"buffer_size": 6922,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/administration/Utilisateurs/liste_utilisateur.php",
+			"settings":
+			{
+				"buffer_size": 4081,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/caisse/Vente/ajout_vente.php",
+			"settings":
+			{
+				"buffer_size": 9328,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/include/new_menu.php",
+			"settings":
+			{
+				"buffer_size": 15789,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/administration/Comptabilite/sacs_farine.php",
+			"settings":
+			{
+				"buffer_size": 8737,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/administration/Comptabilite/controle_facture.php",
+			"settings":
+			{
+				"buffer_size": 13348,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/administration/Client/ajout_client.php",
+			"settings":
+			{
+				"buffer_size": 4232,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/crouteDoree",
+		"/C/wamp/www/crouteDoree/controleurs",
+		"/C/wamp/www/crouteDoree/pages",
+		"/C/wamp/www/crouteDoree/pages/administration",
+		"/C/wamp/www/crouteDoree/pages/administration/Client",
+		"/C/wamp/www/crouteDoree/pages/administration/Comptabilite",
+		"/C/wamp/www/crouteDoree/pages/administration/Utilisateurs",
+		"/C/wamp/www/crouteDoree/pages/caisse",
+		"/C/wamp/www/crouteDoree/pages/caisse/Gestion",
+		"/C/wamp/www/crouteDoree/pages/caisse/Livraison",
+		"/C/wamp/www/crouteDoree/pages/caisse/Utilisateur",
+		"/C/wamp/www/crouteDoree/pages/caisse/Vente",
+		"/C/wamp/www/crouteDoree/pages/include"
+	],
+	"file_history":
+	[
+		"/H/UseALaCrouteDoree/crouteDoree/pages/administration/Produit/script_ajout.php",
+		"/H/UseALaCrouteDoree/crouteDoree/pages/caisse/Vente/ajout_vente.php",
+		"/C/wamp/www/crouteDoree/assets/js/sb-admin-2.js",
+		"/C/wamp/www/crouteDoree/assets/js/post.php",
+		"/C/wamp/www/crouteDoree/assets/js/insert.php",
+		"/C/wamp/www/crouteDoree/assets/js/index.html",
+		"/C/wamp/www/crouteDoree/assets/js/getId.php",
+		"/C/wamp/www/crouteDoree/assets/js/findProduit.php",
+		"/C/wamp/www/crouteDoree/assets/js/bootstrap-datepicker.min.js",
+		"/C/wamp/www/crouteDoree/assets/js/api.php",
+		"/C/wamp/www/crouteDoree/pages/assets/js/sb-admin-2.js",
+		"/C/wamp/www/crouteDoree/assets/js/ajax.js",
+		"/C/wamp/www/crouteDoree/assets/js/filter.js",
+		"/C/wamp/www/crouteDoree/pages/caisse/Vente/ajout_vente.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"datat",
+			"upd",
+			"date",
+			"valider",
+			"facture",
+			"upd",
+			"update",
+			"nbr",
+			"update"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\wamp\\www\\crouteDoree"
+		},
+		{
+			"path": "H:\\UseALaCrouteDoree"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pages/caisse/Livraison/livraisonPdf.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3656,
+								3656
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1564.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pages/administration/Produit/ajout_produit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2567,
+								2567
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 836.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pages/administration/Produit/script_ajout.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								282
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 56.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pages/caisse/Vente/script_commande.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4694,
+								4694
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2631.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pages/caisse/Vente/liste_vente.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1219,
+								1219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "pages/caisse/Gestion/liste_total_commandes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1557,
+								1557
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 343.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "pages/administration/Comptabilite/evaluation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1162,
+								1162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 433.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "pages/caisse/Gestion/encaissement.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6922,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1244,
+								1244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 208.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "pages/administration/Utilisateurs/liste_utilisateur.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "pages/caisse/Vente/ajout_vente.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6437,
+								6437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1852.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "pages/include/new_menu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15222,
+								15222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4752.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "pages/administration/Comptabilite/sacs_farine.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2936,
+								2936
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 658.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "pages/administration/Comptabilite/controle_facture.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10882,
+								10886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "pages/administration/Client/ajout_client.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1937,
+								1937
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 502.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
